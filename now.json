@@ -1,0 +1,26 @@
+{
+    "name": "react-twitter-search",
+    "version": 2,
+    "builds": [
+        { "src": "www/package.json", "use": "@now/next" },
+        { "src": "api/node/*.js", "use": "@now/node" }
+    ],
+    "routes": [
+        {
+          "src": "/api/(.*)",
+          "dest": "/api/$1"
+        },
+        { "src": "/user/(.*)", "dest": "/www/user?userId=$1" },
+        { "src": "/tweet/(.*)", "dest": "/www/tweet?tweetId=$1" },
+        {
+          "src": "/(.*)",
+          "dest": "/www/$1",
+          "headers": {
+            "x-request-path": "$1"
+          }
+        }
+    ],
+    "env": {
+      "TWITTER_TOKEN": "@twitter-token"
+    }
+}

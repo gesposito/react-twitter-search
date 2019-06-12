@@ -1,0 +1,11 @@
+.env
+.next
+
+node_modules
+.bundle
+vendor
+target
+yarn-error.log
+
+.DS_Store
+**/.now
