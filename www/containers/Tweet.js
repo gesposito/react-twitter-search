@@ -11,13 +11,13 @@ function Tweet({ tweetId }) {
   if (error) {
     return (
       <>
-        <div>Ooops: {tweetId}</div>
+        <div data-cy="tweet-error">Ooops: {tweetId}</div>
         <div>{error.message}</div>
       </>
     );
   }
   if (!tweet) {
-    return <div>Loading {tweetId}</div>;
+    return <div data-cy="tweet-loading">Loading {tweetId}</div>;
   }
 
   return (

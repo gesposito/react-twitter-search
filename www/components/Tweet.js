@@ -13,8 +13,8 @@ function Tweet({ tweet }) {
   return (
     <>
       <style jsx>{styles}</style>
-      
-      <blockquote className="tweet-container">
+
+      <blockquote className="tweet-container" data-cy="tweet-detail">
         <div className="tweet-header">
           <div>{tweet.user.name} </div>
           <div>

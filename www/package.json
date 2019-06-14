@@ -8,6 +8,10 @@
     "react-dom": "^16.7.0"
   },
   "scripts": {
-    "now-build": "next build"
+    "now-build": "next build",
+    "cypress-open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^3.3.1"
   }
 }

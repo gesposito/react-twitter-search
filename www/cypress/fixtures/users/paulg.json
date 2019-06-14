@@ -1,0 +1,862 @@
+[{
+	"created_at": "Thu Jun 13 09:17:07 +0000 2019",
+	"id": 1139099367854489600,
+	"id_str": "1139099367854489600",
+	"text": "RT @PlanMaestro: Shipwrecks in the Mediterranean https:\/\/t.co\/waoWSGKuMK",
+	"truncated": false,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "PlanMaestro",
+			"name": "Plan Maestro",
+			"id": 31186367,
+			"id_str": "31186367",
+			"indices": [3, 15]
+		}],
+		"urls": [],
+		"media": [{
+			"id": 1138969797046259712,
+			"id_str": "1138969797046259712",
+			"indices": [49, 72],
+			"media_url": "http:\/\/pbs.twimg.com\/media\/D85u_vLXUAAcjEI.jpg",
+			"media_url_https": "https:\/\/pbs.twimg.com\/media\/D85u_vLXUAAcjEI.jpg",
+			"url": "https:\/\/t.co\/waoWSGKuMK",
+			"display_url": "pic.twitter.com\/waoWSGKuMK",
+			"expanded_url": "https:\/\/twitter.com\/PlanMaestro\/status\/1138969802465304576\/photo\/1",
+			"type": "photo",
+			"sizes": {
+				"large": {
+					"w": 1024,
+					"h": 675,
+					"resize": "fit"
+				},
+				"medium": {
+					"w": 1024,
+					"h": 675,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"small": {
+					"w": 680,
+					"h": 448,
+					"resize": "fit"
+				}
+			},
+			"source_status_id": 1138969802465304576,
+			"source_status_id_str": "1138969802465304576",
+			"source_user_id": 31186367,
+			"source_user_id_str": "31186367"
+		}]
+	},
+	"extended_entities": {
+		"media": [{
+			"id": 1138969797046259712,
+			"id_str": "1138969797046259712",
+			"indices": [49, 72],
+			"media_url": "http:\/\/pbs.twimg.com\/media\/D85u_vLXUAAcjEI.jpg",
+			"media_url_https": "https:\/\/pbs.twimg.com\/media\/D85u_vLXUAAcjEI.jpg",
+			"url": "https:\/\/t.co\/waoWSGKuMK",
+			"display_url": "pic.twitter.com\/waoWSGKuMK",
+			"expanded_url": "https:\/\/twitter.com\/PlanMaestro\/status\/1138969802465304576\/photo\/1",
+			"type": "photo",
+			"sizes": {
+				"large": {
+					"w": 1024,
+					"h": 675,
+					"resize": "fit"
+				},
+				"medium": {
+					"w": 1024,
+					"h": 675,
+					"resize": "fit"
+				},
+				"thumb": {
+					"w": 150,
+					"h": 150,
+					"resize": "crop"
+				},
+				"small": {
+					"w": 680,
+					"h": 448,
+					"resize": "fit"
+				}
+			},
+			"source_status_id": 1138969802465304576,
+			"source_status_id_str": "1138969802465304576",
+			"source_user_id": 31186367,
+			"source_user_id_str": "31186367"
+		}]
+	},
+	"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 183749519,
+		"id_str": "183749519",
+		"name": "Paul Graham",
+		"screen_name": "paulg",
+		"location": "",
+		"description": "",
+		"url": "http:\/\/t.co\/fDpOM1QB6e",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/fDpOM1QB6e",
+					"expanded_url": "http:\/\/paulgraham.com",
+					"display_url": "paulgraham.com",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 1101696,
+		"friends_count": 417,
+		"listed_count": 9896,
+		"created_at": "Fri Aug 27 20:13:59 +0000 2010",
+		"favourites_count": 10903,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 14329,
+		"lang": null,
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "ECD078",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_tile": true,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/183749519\/1401332683",
+		"profile_link_color": "BA0013",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "542437",
+		"profile_text_color": "DD5036",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": null,
+		"follow_request_sent": null,
+		"notifications": null,
+		"translator_type": "none"
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Thu Jun 13 00:42:16 +0000 2019",
+		"id": 1138969802465304576,
+		"id_str": "1138969802465304576",
+		"text": "Shipwrecks in the Mediterranean https:\/\/t.co\/waoWSGKuMK",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [{
+				"id": 1138969797046259712,
+				"id_str": "1138969797046259712",
+				"indices": [32, 55],
+				"media_url": "http:\/\/pbs.twimg.com\/media\/D85u_vLXUAAcjEI.jpg",
+				"media_url_https": "https:\/\/pbs.twimg.com\/media\/D85u_vLXUAAcjEI.jpg",
+				"url": "https:\/\/t.co\/waoWSGKuMK",
+				"display_url": "pic.twitter.com\/waoWSGKuMK",
+				"expanded_url": "https:\/\/twitter.com\/PlanMaestro\/status\/1138969802465304576\/photo\/1",
+				"type": "photo",
+				"sizes": {
+					"large": {
+						"w": 1024,
+						"h": 675,
+						"resize": "fit"
+					},
+					"medium": {
+						"w": 1024,
+						"h": 675,
+						"resize": "fit"
+					},
+					"thumb": {
+						"w": 150,
+						"h": 150,
+						"resize": "crop"
+					},
+					"small": {
+						"w": 680,
+						"h": 448,
+						"resize": "fit"
+					}
+				}
+			}]
+		},
+		"extended_entities": {
+			"media": [{
+				"id": 1138969797046259712,
+				"id_str": "1138969797046259712",
+				"indices": [32, 55],
+				"media_url": "http:\/\/pbs.twimg.com\/media\/D85u_vLXUAAcjEI.jpg",
+				"media_url_https": "https:\/\/pbs.twimg.com\/media\/D85u_vLXUAAcjEI.jpg",
+				"url": "https:\/\/t.co\/waoWSGKuMK",
+				"display_url": "pic.twitter.com\/waoWSGKuMK",
+				"expanded_url": "https:\/\/twitter.com\/PlanMaestro\/status\/1138969802465304576\/photo\/1",
+				"type": "photo",
+				"sizes": {
+					"large": {
+						"w": 1024,
+						"h": 675,
+						"resize": "fit"
+					},
+					"medium": {
+						"w": 1024,
+						"h": 675,
+						"resize": "fit"
+					},
+					"thumb": {
+						"w": 150,
+						"h": 150,
+						"resize": "crop"
+					},
+					"small": {
+						"w": 680,
+						"h": 448,
+						"resize": "fit"
+					}
+				}
+			}]
+		},
+		"source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+		"in_reply_to_status_id": 1074471878725697537,
+		"in_reply_to_status_id_str": "1074471878725697537",
+		"in_reply_to_user_id": 31186367,
+		"in_reply_to_user_id_str": "31186367",
+		"in_reply_to_screen_name": "PlanMaestro",
+		"user": {
+			"id": 31186367,
+			"id_str": "31186367",
+			"name": "Plan Maestro",
+			"screen_name": "PlanMaestro",
+			"location": "#chartstravaganza",
+			"description": "I've had many friends in the sick business fix-up game over a long lifetime.",
+			"url": "https:\/\/t.co\/oTUrA9lfvt",
+			"entities": {
+				"url": {
+					"urls": [{
+						"url": "https:\/\/t.co\/oTUrA9lfvt",
+						"expanded_url": "http:\/\/variantperceptions.wordpress.com",
+						"display_url": "variantperceptions.wordpress.com",
+						"indices": [0, 23]
+					}]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15415,
+			"friends_count": 846,
+			"listed_count": 575,
+			"created_at": "Tue Apr 14 18:20:51 +0000 2009",
+			"favourites_count": 22550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48902,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1100106678144561152\/ngJZtaeY_normal.png",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1100106678144561152\/ngJZtaeY_normal.png",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/31186367\/1551121021",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": null,
+			"follow_request_sent": null,
+			"notifications": null,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	"is_quote_status": false,
+	"retweet_count": 17,
+	"favorite_count": 0,
+	"favorited": false,
+	"retweeted": false,
+	"possibly_sensitive": false,
+	"lang": "en"
+}, {
+	"created_at": "Thu Jun 13 08:57:49 +0000 2019",
+	"id": 1139094510422646789,
+	"id_str": "1139094510422646789",
+	"text": "@typesfast Surely you want a cargo ship...",
+	"truncated": false,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "typesfast",
+			"name": "Ryan Petersen",
+			"id": 395978320,
+			"id_str": "395978320",
+			"indices": [0, 10]
+		}],
+		"urls": []
+	},
+	"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+	"in_reply_to_status_id": 1139068664286629888,
+	"in_reply_to_status_id_str": "1139068664286629888",
+	"in_reply_to_user_id": 395978320,
+	"in_reply_to_user_id_str": "395978320",
+	"in_reply_to_screen_name": "typesfast",
+	"user": {
+		"id": 183749519,
+		"id_str": "183749519",
+		"name": "Paul Graham",
+		"screen_name": "paulg",
+		"location": "",
+		"description": "",
+		"url": "http:\/\/t.co\/fDpOM1QB6e",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/fDpOM1QB6e",
+					"expanded_url": "http:\/\/paulgraham.com",
+					"display_url": "paulgraham.com",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 1101696,
+		"friends_count": 417,
+		"listed_count": 9896,
+		"created_at": "Fri Aug 27 20:13:59 +0000 2010",
+		"favourites_count": 10903,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 14329,
+		"lang": null,
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "ECD078",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_tile": true,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/183749519\/1401332683",
+		"profile_link_color": "BA0013",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "542437",
+		"profile_text_color": "DD5036",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": null,
+		"follow_request_sent": null,
+		"notifications": null,
+		"translator_type": "none"
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"is_quote_status": false,
+	"retweet_count": 0,
+	"favorite_count": 32,
+	"favorited": false,
+	"retweeted": false,
+	"lang": "en"
+}, {
+	"created_at": "Thu Jun 13 08:47:38 +0000 2019",
+	"id": 1139091948927479808,
+	"id_str": "1139091948927479808",
+	"text": "@e_mad_ehsan Yes, but I have no idea what it would take. I know little about current research.",
+	"truncated": false,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "e_mad_ehsan",
+			"name": "Emad Ehsan",
+			"id": 929550961,
+			"id_str": "929550961",
+			"indices": [0, 12]
+		}],
+		"urls": []
+	},
+	"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+	"in_reply_to_status_id": 1138479890490122240,
+	"in_reply_to_status_id_str": "1138479890490122240",
+	"in_reply_to_user_id": 929550961,
+	"in_reply_to_user_id_str": "929550961",
+	"in_reply_to_screen_name": "e_mad_ehsan",
+	"user": {
+		"id": 183749519,
+		"id_str": "183749519",
+		"name": "Paul Graham",
+		"screen_name": "paulg",
+		"location": "",
+		"description": "",
+		"url": "http:\/\/t.co\/fDpOM1QB6e",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/fDpOM1QB6e",
+					"expanded_url": "http:\/\/paulgraham.com",
+					"display_url": "paulgraham.com",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 1101696,
+		"friends_count": 417,
+		"listed_count": 9896,
+		"created_at": "Fri Aug 27 20:13:59 +0000 2010",
+		"favourites_count": 10903,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 14329,
+		"lang": null,
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "ECD078",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_tile": true,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/183749519\/1401332683",
+		"profile_link_color": "BA0013",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "542437",
+		"profile_text_color": "DD5036",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": null,
+		"follow_request_sent": null,
+		"notifications": null,
+		"translator_type": "none"
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"is_quote_status": false,
+	"retweet_count": 0,
+	"favorite_count": 0,
+	"favorited": false,
+	"retweeted": false,
+	"lang": "en"
+}, {
+	"created_at": "Thu Jun 13 08:44:14 +0000 2019",
+	"id": 1139091091431362560,
+	"id_str": "1139091091431362560",
+	"text": "@samfhicks It's 9 months long (and a very intensive 9 months too), it's remote, it's hard to get into, and you don't have to pay upfront.",
+	"truncated": false,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "samfhicks",
+			"name": "Sam Hicks",
+			"id": 192716426,
+			"id_str": "192716426",
+			"indices": [0, 10]
+		}],
+		"urls": []
+	},
+	"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+	"in_reply_to_status_id": 1138942641058357248,
+	"in_reply_to_status_id_str": "1138942641058357248",
+	"in_reply_to_user_id": 192716426,
+	"in_reply_to_user_id_str": "192716426",
+	"in_reply_to_screen_name": "samfhicks",
+	"user": {
+		"id": 183749519,
+		"id_str": "183749519",
+		"name": "Paul Graham",
+		"screen_name": "paulg",
+		"location": "",
+		"description": "",
+		"url": "http:\/\/t.co\/fDpOM1QB6e",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/fDpOM1QB6e",
+					"expanded_url": "http:\/\/paulgraham.com",
+					"display_url": "paulgraham.com",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 1101696,
+		"friends_count": 417,
+		"listed_count": 9896,
+		"created_at": "Fri Aug 27 20:13:59 +0000 2010",
+		"favourites_count": 10903,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 14329,
+		"lang": null,
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "ECD078",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_tile": true,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/183749519\/1401332683",
+		"profile_link_color": "BA0013",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "542437",
+		"profile_text_color": "DD5036",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": null,
+		"follow_request_sent": null,
+		"notifications": null,
+		"translator_type": "none"
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"is_quote_status": false,
+	"retweet_count": 1,
+	"favorite_count": 14,
+	"favorited": false,
+	"retweeted": false,
+	"lang": "en"
+}, {
+	"created_at": "Wed Jun 12 17:59:51 +0000 2019",
+	"id": 1138868530965864450,
+	"id_str": "1138868530965864450",
+	"text": "@mckaywrigley Indeed, I was incredulous when the founders told me they were focusing on gameplay. But you couldn't argue with the numbers.",
+	"truncated": false,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "mckaywrigley",
+			"name": "Mckay Wrigley",
+			"id": 2786431437,
+			"id_str": "2786431437",
+			"indices": [0, 13]
+		}],
+		"urls": []
+	},
+	"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+	"in_reply_to_status_id": 1138868059496562688,
+	"in_reply_to_status_id_str": "1138868059496562688",
+	"in_reply_to_user_id": 2786431437,
+	"in_reply_to_user_id_str": "2786431437",
+	"in_reply_to_screen_name": "mckaywrigley",
+	"user": {
+		"id": 183749519,
+		"id_str": "183749519",
+		"name": "Paul Graham",
+		"screen_name": "paulg",
+		"location": "",
+		"description": "",
+		"url": "http:\/\/t.co\/fDpOM1QB6e",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/fDpOM1QB6e",
+					"expanded_url": "http:\/\/paulgraham.com",
+					"display_url": "paulgraham.com",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 1101696,
+		"friends_count": 417,
+		"listed_count": 9896,
+		"created_at": "Fri Aug 27 20:13:59 +0000 2010",
+		"favourites_count": 10903,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 14329,
+		"lang": null,
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "ECD078",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_tile": true,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/183749519\/1401332683",
+		"profile_link_color": "BA0013",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "542437",
+		"profile_text_color": "DD5036",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": null,
+		"follow_request_sent": null,
+		"notifications": null,
+		"translator_type": "none"
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"is_quote_status": false,
+	"retweet_count": 1,
+	"favorite_count": 55,
+	"favorited": false,
+	"retweeted": false,
+	"lang": "en"
+}, {
+	"created_at": "Wed Jun 12 17:52:41 +0000 2019",
+	"id": 1138866725343125505,
+	"id_str": "1138866725343125505",
+	"text": "@6ones_ Yes.",
+	"truncated": false,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "6ones_",
+			"name": "Promise",
+			"id": 1701561925,
+			"id_str": "1701561925",
+			"indices": [0, 7]
+		}],
+		"urls": []
+	},
+	"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+	"in_reply_to_status_id": 1138864925458280449,
+	"in_reply_to_status_id_str": "1138864925458280449",
+	"in_reply_to_user_id": 1701561925,
+	"in_reply_to_user_id_str": "1701561925",
+	"in_reply_to_screen_name": "6ones_",
+	"user": {
+		"id": 183749519,
+		"id_str": "183749519",
+		"name": "Paul Graham",
+		"screen_name": "paulg",
+		"location": "",
+		"description": "",
+		"url": "http:\/\/t.co\/fDpOM1QB6e",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/fDpOM1QB6e",
+					"expanded_url": "http:\/\/paulgraham.com",
+					"display_url": "paulgraham.com",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 1101696,
+		"friends_count": 417,
+		"listed_count": 9896,
+		"created_at": "Fri Aug 27 20:13:59 +0000 2010",
+		"favourites_count": 10903,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 14329,
+		"lang": null,
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "ECD078",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_tile": true,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/183749519\/1401332683",
+		"profile_link_color": "BA0013",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "542437",
+		"profile_text_color": "DD5036",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": null,
+		"follow_request_sent": null,
+		"notifications": null,
+		"translator_type": "none"
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"is_quote_status": false,
+	"retweet_count": 0,
+	"favorite_count": 1,
+	"favorited": false,
+	"retweeted": false,
+	"lang": "und"
+}, {
+	"created_at": "Wed Jun 12 17:47:40 +0000 2019",
+	"id": 1138865464036253696,
+	"id_str": "1138865464036253696",
+	"text": "@ibeckermayer If employers will take Lambda School grads, why shouldn't grad schools?",
+	"truncated": false,
+	"entities": {
+		"hashtags": [],
+		"symbols": [],
+		"user_mentions": [{
+			"screen_name": "ibeckermayer",
+			"name": "Isaiah",
+			"id": 1385251826,
+			"id_str": "1385251826",
+			"indices": [0, 13]
+		}],
+		"urls": []
+	},
+	"source": "\u003ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003eTwitter Web Client\u003c\/a\u003e",
+	"in_reply_to_status_id": 1138864180176465920,
+	"in_reply_to_status_id_str": "1138864180176465920",
+	"in_reply_to_user_id": 1385251826,
+	"in_reply_to_user_id_str": "1385251826",
+	"in_reply_to_screen_name": "ibeckermayer",
+	"user": {
+		"id": 183749519,
+		"id_str": "183749519",
+		"name": "Paul Graham",
+		"screen_name": "paulg",
+		"location": "",
+		"description": "",
+		"url": "http:\/\/t.co\/fDpOM1QB6e",
+		"entities": {
+			"url": {
+				"urls": [{
+					"url": "http:\/\/t.co\/fDpOM1QB6e",
+					"expanded_url": "http:\/\/paulgraham.com",
+					"display_url": "paulgraham.com",
+					"indices": [0, 22]
+				}]
+			},
+			"description": {
+				"urls": []
+			}
+		},
+		"protected": false,
+		"followers_count": 1101696,
+		"friends_count": 417,
+		"listed_count": 9896,
+		"created_at": "Fri Aug 27 20:13:59 +0000 2010",
+		"favourites_count": 10903,
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"verified": true,
+		"statuses_count": 14329,
+		"lang": null,
+		"contributors_enabled": false,
+		"is_translator": false,
+		"is_translation_enabled": false,
+		"profile_background_color": "ECD078",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_tile": true,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1824002576\/pg-railsconf_normal.jpg",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/183749519\/1401332683",
+		"profile_link_color": "BA0013",
+		"profile_sidebar_border_color": "FFFFFF",
+		"profile_sidebar_fill_color": "542437",
+		"profile_text_color": "DD5036",
+		"profile_use_background_image": true,
+		"has_extended_profile": false,
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": null,
+		"follow_request_sent": null,
+		"notifications": null,
+		"translator_type": "none"
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"is_quote_status": false,
+	"retweet_count": 1,
+	"favorite_count": 0,
+	"favorited": false,
+	"retweeted": false,
+	"lang": "en"
+}]

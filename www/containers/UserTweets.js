@@ -14,16 +14,16 @@ function UserTweets({ userId }) {
 
   if (error) {
     return (
-      <div>
+      <div data-cy="user-tweets-error">
         Ooops: {error.message} for {userId}
       </div>
     );
   }
   if (!tweets) {
-    return <div>Loading {userId}</div>;
+    return <div data-cy="user-tweets-loading">Loading {userId}</div>;
   }
   if (!tweets.length) {
-    return <div>{userId} has no public Tweets</div>;
+    return <div data-cy="user-tweets-empty">{userId} has no public Tweets</div>;
   }
 
   return (

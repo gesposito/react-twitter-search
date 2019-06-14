@@ -33,9 +33,10 @@ function UserSearch({ userId = "" }) {
           value={username}
           placeholder="Enter a username (i.e. _gesposito)"
           onChange={({ target: { value } }) => setUsername(value)}
+          data-cy="user-search-input"
         />
       </div>
-      
+
       {username && username === userId && (
         <div>
           <h2>{username}'s latest Tweets:</h2>
