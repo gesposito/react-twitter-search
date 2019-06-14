@@ -20,6 +20,11 @@ Run the local env with
 now dev
 ```
 
+## Tests
+```
+cd www && yarn run cypress-open
+```
+
 # Prod 
 
 Add the secret to your [now](https://zeit.co/now) account with
